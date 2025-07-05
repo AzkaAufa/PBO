@@ -27,6 +27,31 @@
 
 ---
 
-https://youtu.be/7pvzGAJnoSw
+---
+
+## 🧪 Contoh Penggunaan
+
+- Tambah pemasukan: Gaji Rp3.000.000
+- Tambah pengeluaran: Jajan Rp50.000
+- Reminder akan muncul jika pengeluaran terlalu besar
+- Saldo akan dihitung otomatis dari total pemasukan - pengeluaran
+
+---
+
+## 📹 Demo
+Demo Video MoneyMind : https://youtu.be/7pvzGAJnoSw
+
+---
+
+## 👨‍💻 Developer
+
+Dibuat oleh: Azka Aufa  
+Untuk: Tugas UAS Pemrograman Berorientasi Objek (PBO)  
+Semester: 4
+
+---
+
+
+
 
 
